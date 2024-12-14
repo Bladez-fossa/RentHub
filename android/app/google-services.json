@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "481929803319",
+    "project_id": "epichub-7f226",
+    "storage_bucket": "epichub-7f226.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481929803319:android:f4344d1d63a498a9a5f1b2",
+        "android_client_info": {
+          "package_name": "com.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481929803319-l2nbc30uisogt6b9l6je4iktlc95mb56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-uiergeWFi66vhzI8UZVTCBWsmuL67Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481929803319-l2nbc30uisogt6b9l6je4iktlc95mb56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481929803319-5hh2otain7ijgha233cuqk01lbi0gv2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.epichub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481929803319:android:5ccb92267774f76da5f1b2",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481929803319-l2nbc30uisogt6b9l6je4iktlc95mb56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-uiergeWFi66vhzI8UZVTCBWsmuL67Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481929803319-l2nbc30uisogt6b9l6je4iktlc95mb56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481929803319-5hh2otain7ijgha233cuqk01lbi0gv2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.epichub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
